@@ -8,12 +8,9 @@ Offsets are ...
 x=225, y=0, width=574, height=768<br/>
 <img src="arcadeclassics_4_3_1024_768.png" width="200" />
 
-
-**arcadeclassics_16_9_1280_720.png**
-- x=370
-- y=0
-- width=540
-- height=720
+**arcadeclassics_16_9_1280_720.png**<br/>
+x=370, y=0, width=540, height=720<br/>
+<img src="arcadeclassics_16_9_1280_720.png" width="200" />
 
 **arcadeclassics_16_9_1920_1080.png**
 - x=555
