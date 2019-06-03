@@ -4,14 +4,14 @@ Bezel images used as overlays across RetroPie on our standard and coin-op system
 
 Offsets are ...
 
-![Overlay Image](arcadeclassics_4_3_1024_768.png | width=200)
-
+![Overlay Image](arcadeclassics_4_3_1024_768.png)
 **arcadeclassics_4_3_1024_768.png**
 - x=225
 - y=0
 - width=574
 - height=768
 
+![Overlay Image](arcadeclassics_16_9_1280_720.png)
 **arcadeclassics_16_9_1280_720.png**
 - x=370
 - y=0
